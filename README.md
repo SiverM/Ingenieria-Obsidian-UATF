@@ -1,0 +1,2 @@
+# ingenieria
+curso ingenieria obsidian
