@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8373e26a9af8fac1",
+        "id": "f37174d2b83ad847",
         "type": "tabs",
         "children": [
           {
-            "id": "a7ba1f4ec72a0637",
+            "id": "ab60b43c0f818959",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "f1500e0d63496a00",
+        "id": "85cdf6be2a969869",
         "type": "tabs",
         "children": [
           {
-            "id": "76d30239bc77fb6d",
+            "id": "95a8d3ff599de394",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -160,8 +160,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a7ba1f4ec72a0637",
+  "active": "ab60b43c0f818959",
   "lastOpenFiles": [
+    "README.md",
+    "Sin título.canvas",
     "Welcome.md"
   ]
 }
